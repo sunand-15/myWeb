@@ -1,0 +1,29 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.contact{
+  
+    text-align:center;
+    background-color: rgb(85, 81, 81);
+    color: white;
+}
+.contact-bottom{
+    
+    display:flex;
+    background-color: rgb(43, 36, 36);
+    color: white;
+}
+.locationicon{
+    height: 20px;
+    width: 15px;
+}
+.btn{
+    background-color: ;
+}
+.navbar{
+    color: wheat;
+}
